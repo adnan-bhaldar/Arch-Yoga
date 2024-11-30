@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Filmlane Desktop Demo](./preview.png "Desktop Demo")
+![Arch Desktop Demo](./preview.png "Desktop Demo")
 
 ### Responsive Yoga Website
 
